@@ -20,5 +20,9 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 
 Happy Coding!
 
-[Figma File](https://www.figma.com/file/hE5klIn1AEQ9XWZWmurs7y/Learning-Journal%2FBlog?type=design&node-id=1-432&mode=design&t=jzYl1shTZFr1xHjQ-0)
+- [Figma File](https://www.figma.com/file/hE5klIn1AEQ9XWZWmurs7y/Learning-Journal%2FBlog?type=design&node-id=1-432&mode=design&t=jzYl1shTZFr1xHjQ-0)
+
+
 ![](image.png)
+![Stretch](<req.png>) 
+![Requirements](<stretch.png>)
