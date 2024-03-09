@@ -113,7 +113,7 @@ nav > ul > img {
 
 /* Header */
 header {
-  background-image: url("/images/main-image.png");
+  background-image: url("../images/main-image.png");
   background-size: cover;
   background-position: center;
   color: whitesmoke;
